@@ -19,7 +19,7 @@ export default function MainNews({ posts }) {
       <section className="py-20">
         <div className="container">
           <h1 className="text-2xl lg:text-5xl font-bold mb-5 wow animate__animated animate__fadeIn animated">
-            NEWS
+            BLOG
           </h1>
           <div className="flex flex-wrap -mx-3">
             {posts.map((post, i) => (
@@ -39,7 +39,7 @@ export default function MainNews({ posts }) {
                 </a>
                 <p className="mt-6 text-sm text-blue-400">
                   <span className="inline-block py-1 px-3 text-xs font-semibold rounded-mainColor rounded-xl mr-3">
-                    {post.category || "News"}
+                    {post.category || "Blog"}
                   </span>
                   <span className="text-blueGray-400 text-xs">{post.date}</span>
                 </p>
