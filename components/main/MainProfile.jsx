@@ -99,10 +99,10 @@ export default function MainProfile() {
                       現) 법률사무소 정문 대표변호사
                     </p>
                     <p className="text-blueGray-400 leading-loose">
-                      前) 경기 시흥교육지원청 학교폭력소위원회 위원장
+                      現) 보통군사법원 국선변호인
                     </p>
                     <p className="text-blueGray-400 leading-loose">
-                      現) 보통군사법원 국선변호인
+                      前) 경기 시흥교육지원청 학교폭력소위원회 위원장
                     </p>
                     <p className="text-blueGray-400 leading-loose">
                       前) 인천지방국세청 징세송무국(추적과/송무과)
